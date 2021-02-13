@@ -50,7 +50,7 @@ Pré-requisitos:
 # clonar repositório
 git clone git@github.com:fabianobasso/Dashboard.git
 ```
-- Copiar a pasta do projeto para pasta publica do simulador de servidor web.
+- Copiar a pasta do projeto para pasta pública do simulador de servidor web.
 - Abrir pelo navegador.
 
 
